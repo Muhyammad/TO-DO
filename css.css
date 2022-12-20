@@ -1,0 +1,226 @@
+/* неон */
+
+
+.neonText {
+    color: rgb(207 108 0);
+    text-shadow:
+        0 0 7px rgb(207 108 0),
+        0 0 10px rgb(207 108 0),
+        0 0 21px rgb(207 108 0),
+        0 0 42px rgb(207 108 0),
+        0 0 82px rgb(207 108 0),
+        0 0 92px rgb(207 108 0),
+        0 0 102px rgb(207 108 0),
+        0 0 151px rgb(207 108 0);
+}
+
+/* Additional styling */
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 3.2rem;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Spray+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+NP+Hmong&display=swap');
+
+body {
+    font-family: 'Noto Serif NP Hmong', serif;
+    background: url("/1646972918_1-abrakadabra-fun-p-sero-chernii-s-oranzhevim-fon-dlya-bannero-2.jpg") center center no-repeat fixed;
+    background-size: cover;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Noto Serif NP Hmong', serif;
+
+}
+
+
+
+.wrap {
+    border-radius: 1500px;
+    margin: 0 auto;
+    height: 800px;
+    width: 800px;
+    background-color: rgb(18, 16, 16);
+    box-shadow: 6px 6px 90px 2px rgb(207 108 0);
+}
+
+.placeholder {
+    box-shadow: 2px 2px 10px 2px rgb(207 108 0);
+    color: rgb(207 108 0);
+    padding: 0 0 0 20px;
+    width: 300px;
+    height: 50px;
+    margin: 70px 0px 0px 215px;
+    background-color: black;
+    border: none;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+        text-shadow:
+        0 0 7px rgb(207 108 0),
+        0 0 1px rgb(207 108 0),
+        0 0 2px rgb(207 108 0),
+        0 0 420px rgb(207 108 0),
+        0 0 82px rgb(207 108 0),
+        0 0 92px rgb(207 108 0),
+        0 0 102px rgb(207 108 0),
+        0 0 1510px rgb(207 108 0);
+}
+
+.placeholder::placeholder {
+    color: rgb(207 108 0);
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+}
+
+.button {
+    box-shadow: 2px 2px 10px 2px rgb(207 108 0);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    color: rgb(207 108 0);
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+    }
+
+ul {
+    color: rgb(207 108 0);
+    height: auto;
+    margin-left: 220px;
+    list-style: none;
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+    padding: 0;
+}
+
+#result {
+    margin-bottom: 50px;
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+}
+
+#btn {
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+    border: none;
+    color: rgb(207 108 0);
+    cursor: pointer;
+    position: relative;
+    z-index: 10;
+}
+
+.li {
+    box-shadow: 2px 2px 10px 2px rgb(207 108 0);
+    border-radius: 100px;
+    padding: 6px 10px;
+    background-color: black;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 5;
+    width: 350px;
+    text-transform: capitalize;
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+}
+
+.li:active {
+    color: #fff;
+    text-decoration:line-through;
+    background-color: transparent;
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+}
+
+.li:active .btn {
+    color: #fff;
+    text-decoration: none;
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+}
+
+.A {
+    text-shadow:
+    0 0 7px rgb(207 108 0),
+    0 0 1px rgb(207 108 0),
+    0 0 2px rgb(207 108 0),
+    0 0 420px rgb(207 108 0),
+    0 0 82px rgb(207 108 0),
+    0 0 92px rgb(207 108 0),
+    0 0 102px rgb(207 108 0),
+    0 0 1510px rgb(207 108 0);
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(207 108 0);
+}
